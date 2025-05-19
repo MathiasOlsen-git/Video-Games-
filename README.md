@@ -13,7 +13,7 @@ This Power BI report provides an in-depth analysis of global video game sales da
 ---
 
 ##  Page 1: Game Overview & KPIs
-
+![Game Overview](images/gamesgit1.PNG)
 This page provides a top-level overview of the dataset through key performance indicators and high-level charts.
 
 ### Key Metrics:
@@ -34,7 +34,7 @@ This page provides a top-level overview of the dataset through key performance i
 ---
 
 ##  Page 2: Genre Insights
-
+![Genre Insights](images/gamesgit2.PNG)
 This page dives into genre-based analysis to explore how different genres perform across regions and publishers.
 
 ### Highlights:
@@ -50,7 +50,7 @@ This page dives into genre-based analysis to explore how different genres perfor
 ---
 
 ##  Page 3: Platform Performance
-
+![Platform Performance](images/gamesgit3.PNG)
 A breakdown of video game sales and distribution by platform.
 
 ### Key Metrics:
@@ -70,7 +70,7 @@ A breakdown of video game sales and distribution by platform.
 ---
 
 ##  Page 4: Gaming Trends Over Time
-
+![Gaming Trends](images/gamesgit4.PNG)
 This page analyzes how game development and sales have evolved year by year.
 
 ### Highlights:
